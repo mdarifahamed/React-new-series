@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.para{
+  width: 1320px;
+  margin: auto;
+  display: flex;
+}
+
+.carditem{
+  flex-basis: 23%;
+  background-color: aqua;
+  margin: 1%;
+  height: 200px;
 }
