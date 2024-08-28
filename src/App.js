@@ -79,6 +79,7 @@ function App() {
       <Card/>
       </div>
       </div> */}
+      fsjlkjgf
 
       <Footer />
     </div>
